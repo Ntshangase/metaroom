@@ -20,7 +20,7 @@ const Footer = () => {
                                 <a href="">
                                     <img src={fb} alt="facebook logo" />
                                 </a>
-                                <a href="http://twitter.com/_kingaustinn">
+                                <a href="https://twitter.com/elonmusk">
                                     <img src={twit} alt="twitter logo" />
                                 </a>
                                 <a href="">

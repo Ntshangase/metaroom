@@ -55,25 +55,25 @@ function Home() {
                 </div>
                 <div className="grid">
                     <div>
-                        <a href=""><img src={f142} alt="desert-" /></a>
+                        <a href=""><img src={f142} alt="f142" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g4049} alt="desert" /></a>
+                        <a href=""><img src={g4049} alt="g4049" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g4050} alt="desert" /></a>
+                        <a href=""><img src={g4050} alt="g4050" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g4051} alt="desert" /></a>
+                        <a href=""><img src={g4051} alt="g4051" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g4048} alt="desert" /></a>
+                        <a href=""><img src={g4048} alt="g4048" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g40499} alt="desert" /></a>
+                        <a href=""><img src={g40499} alt="g40499" /></a>
                     </div>
                     <div>
-                        <a href=""><img src={g40500} alt="desert" /></a>
+                        <a href=""><img src={g40500} alt="g40500" /></a>
                     </div>
                     <div>
                         <a href=""> <img src={g40511}/></a>                       

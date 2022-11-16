@@ -38,52 +38,52 @@ const Places = () => {
 
             <div className="grid">
                 <div>
-                    <a href="/"><img src={p1} alt="desert-" /></a>
+                    <a href="/"><img src={p1} alt="p1" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p2} alt="desert" /></a>
+                    <a href="/"><img src={p2} alt="p2" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p3} alt="desert" /></a>
+                    <a href="/"><img src={p3} alt="p3" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p4} alt="desert" /></a>
+                    <a href="/"><img src={p4} alt="p4" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p5} alt="desert" /></a>
+                    <a href="/"><img src={p5} alt="p5" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p6} alt="desert" /></a>
+                    <a href="/"><img src={p6} alt="p6" /></a>
                 </div>
                 <div>
-                    <a href="/"><img src={p7} alt="desert" /></a>
+                    <a href="/"><img src={p7} alt="p7" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p8} alt="desert" /></a>
+                    <a href="/"> <img src={p8} alt="p8" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p9} alt="desert" /></a>
+                    <a href="/"> <img src={p9} alt="p3" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p10} alt="desert" /></a>
+                    <a href="/"> <img src={p10} alt="p10" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p11} alt="desert" /></a>
+                    <a href="/"> <img src={p11} alt="p11" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p12} alt="desert" /></a>
+                    <a href="/"> <img src={p12} alt="p12" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p13} alt="desert" /></a>
+                    <a href="/"> <img src={p13} alt="p13" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p14} alt="desert" /></a>
+                    <a href="/"> <img src={p14} alt="p14" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p15} alt="desert" /></a>
+                    <a href="/"> <img src={p15} alt="p15" /></a>
                 </div>
                 <div>
-                    <a href="/"> <img src={p16} alt="desert" /></a>
+                    <a href="/"> <img src={p16} alt="p16" /></a>
                 </div>
             </div>
             <Footer />
