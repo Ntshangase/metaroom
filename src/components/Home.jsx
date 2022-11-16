@@ -16,8 +16,7 @@ import g40511 from "../images/Group 40511.png"
 import frame from "../images/Frame 59546.png"
 
 
-function Home() {
-//  
+function Home() { 
     return (
         <div className='container'>
             
@@ -98,12 +97,7 @@ function Home() {
                 </div>
             </section>
             <Footer />
-          
-
-           
         </div>
-
-
     )
 }
 
