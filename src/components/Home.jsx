@@ -33,7 +33,7 @@ function Home() {
                         your comfort zone
                     </p>
                     <form action="" className="search">
-                        <input type="search" id="srch" placeholder="Search for location" />
+                        <input type="search" id="srch" placeholder="Search" />
                         <button type="submit" id="srch-btn">Search</button>
                     </form>
                 </div>
