@@ -4,8 +4,7 @@
     display: flex;
     margin-block-start: 3rem;
     margin-block-end: 1.5rem;
-    justify-content: space-between;
-    
+    justify-content: space-between;   
 }
 
 .nav-places a {
@@ -36,5 +35,4 @@
    position: absolute;
    right: 1rem;
    bottom: .6rem;
-
 }

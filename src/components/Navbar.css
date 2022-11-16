@@ -13,7 +13,6 @@
 
 .nav-links {
     display: flex;
-
     max-width: 1000px;
     height: 100%;
     margin: auto;
@@ -31,9 +30,7 @@
 
 .nav-menu {
     display: flex;
-
 }
-
 
 .hamburger {
     display: none;
@@ -56,7 +53,6 @@
 
     .nav-links {
         flex-direction: column;
-
     }
 
     .nav-links li {
@@ -65,7 +61,6 @@
 
     .nav-menu.active {
         right: 0;
-
     }
 
     .hamburger {
